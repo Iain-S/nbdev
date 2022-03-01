@@ -34,7 +34,7 @@
     <tr>
       <th>0</th>
       <td>1926044</td>
-      <td>Code Blue</td>
+      <td style="text-align: left;">Code Blue</td>
       <td>{B8222271-189F-4D19-948C-2C248ABDE38D}</td>
       <td>30/06/2017</td>
       <td>{10DAC30E-20BC-484B-B94B-9853FDE83B15}</td>
@@ -49,7 +49,7 @@
     <tr>
       <th>1</th>
       <td>1926058</td>
-      <td>Code Blue</td>
+      <td style="text-align: right;">Code Blue</td>
       <td>{B8222271-189F-4D19-948C-2C248ABDE38D}</td>
       <td>30/06/2017</td>
       <td>{A1A0F3FB-B281-41A4-B3F9-D559AAB9AB8B}</td>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>1926059</td>
+      <td style="text-align: right;">1926059</td>
       <td>Code Blue</td>
       <td>{B8222271-189F-4D19-948C-2C248ABDE38D}</td>
       <td>30/06/2017</td>
